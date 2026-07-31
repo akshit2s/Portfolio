@@ -1,0 +1,15 @@
+{
+  "name": "akshit-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Akshit Sachdeva",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y browser-sync start --server --files \"*.*\""
+  },
+  "keywords": [
+    "portfolio",
+    "static"
+  ],
+  "author": "Akshit Sachdeva",
+  "license": "ISC"
+}
