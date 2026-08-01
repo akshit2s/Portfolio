@@ -11,7 +11,7 @@ This portfolio is built entirely using **Vanilla HTML5, CSS3, and JavaScript**, 
 *   **Premium Dark Theme**: Built with a charcoal background (`#0D0D0D`), warm off-white typography (`#F5F1E8`), and minimal gold/amber accents (`#D4A24C`).
 *   **Floating Pill Navbar**: A glassmorphism navbar fixed at the top of the page. It automatically updates active highlight indicators as sections scroll into view.
 *   **Interactive Scroll Reveal**: Section components smoothly fade and slide into view as the user scrolls down the page.
-*   **Direct Details Copying**: Click-to-copy utility for direct contact details (Email & Phone) with interactive checkmark feedback.
+*   **Direct Details Copying**: Click-to-copy utility for direct contact details (Email) with interactive checkmark feedback.
 *   **Grid Layouts**: Fully responsive layouts featuring custom animations, gold card highlights, and linked SVG assets.
 *   **SEO Optimized**: Fully integrated meta descriptions, search tags, responsive viewport setups, and clean semantic structures.
 
